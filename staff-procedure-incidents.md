@@ -1,9 +1,9 @@
 This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
 -------------------------------------------------------------------------------------------------
-Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/about/code-of-conduct/)
+Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [/code-of-conduct/](http://devfest-berlin.de/#/code-of-conduct/)
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
+Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/code-of-conduct/attendees](#/code-of-conduct/attendees)
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
@@ -13,7 +13,7 @@ Try to get as much of the incident in written form by the reporter. If you canno
  - The circumstances surrounding the incident
  - Other people involved in the incident
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for DevFest. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police
  - Offer the victim a private place to sit
@@ -62,4 +62,6 @@ Depending on the incident, the conference chair, or designate, may decide to mak
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers. If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+A listing of [DevFest staff is located here](#/2014/team/).
+If at all possible, all reports should be made directly to [Stefan Hoth](mailto:stefan@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
+
