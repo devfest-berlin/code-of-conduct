@@ -2,7 +2,7 @@ DevFest Berlin is a community conference intended for networking and collaborati
 
 We value the participation of each member of the GDG community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by DevFest Berlin or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any DevFest Berlin event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 The Short Version
 -----------------
