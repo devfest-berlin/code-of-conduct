@@ -1,9 +1,9 @@
 This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
 -------------------------------------------------------------------------------------------------
-Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [/code-of-conduct/](http://devfest-berlin.de/#/code-of-conduct/)
+Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [code_of_conduct.md](code_of_conduct.md)
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/code-of-conduct/attendees](#/code-of-conduct/attendees)
+Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [attendee-procedure-incidents.md](attendee-procedure-incidents.md)
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
@@ -62,6 +62,6 @@ Depending on the incident, the conference chair, or designate, may decide to mak
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
-A listing of [DevFest staff is located here](#/2014/team/).
+A listing of [DevFest staff is located here](https://2015.devfest-berlin.de/team/).
 If at all possible, all reports should be made directly to [Stefan Hoth](mailto:stefan@devfest-berlin.de), [Natalie Pistunovich](mailto:natalie@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
 

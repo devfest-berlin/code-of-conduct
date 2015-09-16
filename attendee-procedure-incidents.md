@@ -2,7 +2,7 @@ This procedure has been adopted from the Ada Initiative's guide titled "[Confere
 
 1\. Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF”
 on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
-All of our staff are informed of the [code of conduct policy](#/code-of-conduct/) and guide
+All of our staff are informed of the [code of conduct policy](code_of_conduct.md) and guide
 for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference
 when this will be reiterated.*
 
@@ -34,5 +34,5 @@ the offenders, and the community at large, to grow, learn, and become better. De
 that they be your first resource when reporting a DevFest-related incident, so that they may enforce
 the Code of Conduct and take quick action toward a resolution.
 
-A listing of [DevFest staff is located here](#/2014/team/).
+A listing of [DevFest staff is located here]((https://2015.devfest-berlin.de/team/).
 If at all possible, all reports should be made directly to [Stefan Hoth](mailto:stefan@devfest-berlin.de), [Natalie Pistunovich](mailto:natalie@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
