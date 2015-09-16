@@ -35,4 +35,4 @@ that they be your first resource when reporting a DevFest-related incident, so t
 the Code of Conduct and take quick action toward a resolution.
 
 A listing of [DevFest staff is located here](#/2014/team/).
-If at all possible, all reports should be made directly to [Stefan Hoth](mailto:stefan@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
+If at all possible, all reports should be made directly to [Stefan Hoth](mailto:stefan@devfest-berlin.de), [Natalie Pistunovich](mailto:natalie@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
