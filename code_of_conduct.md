@@ -33,11 +33,12 @@ If a participant engages in behavior that violates this code of conduct, the con
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "DevFest Berlin staff" t-shirts. You may also contact venue staff and ask to be put in touch with the team members [Stefan Hoth](mailto:stefan@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "DevFest Berlin staff" t-shirts. You may also contact venue staff and ask to be put in touch with the team members [Stefan Hoth](mailto:stefan@devfest-berlin.de), [Natalie Pistunovich](mailto:natalie@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
 - Stefan Hoth  at +49 179 210 86 09
+- Natalie Pistunovich at +49 176 15 00 38 62
 - Hasan Hosgel at +49 178 38 66 44 2
 
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.

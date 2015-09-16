@@ -63,5 +63,5 @@ Depending on the incident, the conference chair, or designate, may decide to mak
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
 A listing of [DevFest staff is located here](#/2014/team/).
-If at all possible, all reports should be made directly to [Stefan Hoth](mailto:stefan@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
+If at all possible, all reports should be made directly to [Stefan Hoth](mailto:stefan@devfest-berlin.de), [Natalie Pistunovich](mailto:natalie@devfest-berlin.de) or [Hasan Hosgel](mailto:hasan@devfest-berlin.de).
 
