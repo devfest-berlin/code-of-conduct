@@ -37,9 +37,9 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
-- Stefan Hoth  at +49 179 210 86 09
-- Natalie Pistunovich at +49 176 15 00 38 62
-- Hasan Hosgel at +49 178 38 66 44 2
+- Stefan Hoth, [stefan@devfest-berlin.de](mailto:stefan@devfest-berlin.de)
+- Natalie Pistunovich, [natalie@devfest-berlin.de](mailto:natalie@devfest-berlin.de)
+- Hasan Hosgel, [hasan@devfest-berlin.de](mailto:hasan@devfest-berlin.de)
 
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
